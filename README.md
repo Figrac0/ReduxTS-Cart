@@ -7,11 +7,11 @@ An elegant e-commerce clothing store built with React, TypeScript, and Redux Too
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ReduxTS-Cart/blob/main/src/assets/1.png" width="550" height = "600"/>
+  <img src="https://github.com/Figrac0/ReduxTS-Cart/blob/main/src/assets/1.png" width="450" height = "600"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ReduxTS-Cart/blob/main/src/assets/2.png" width="550" height = "600"/>
+  <img src="https://github.com/Figrac0/ReduxTS-Cart/blob/main/src/assets/2.png" width="450" height = "600"/>
 </p>
 
 ## Technology Stack
